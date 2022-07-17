@@ -1,0 +1,14 @@
+{
+    "name": "hotash/laravel-ignorable",
+    "description": "Ignorable package for Laravel.",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hotash\\": "./"
+        },
+        "files": [
+            "functions.php"
+        ]
+    }
+}
